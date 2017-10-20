@@ -2,6 +2,9 @@
 # system.prop for cedric
 #
 
+# Adreno
+ro.qcom.adreno.qgl.ShaderStorageImageExtendedFormats=0
+
 # Audio
 audio.deep_buffer.media=true
 vendor.audio.offload.buffer.size.kb=64
